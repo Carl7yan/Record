@@ -8,7 +8,6 @@ There are some vital courses:
 10. [C](https://www.tutorialspoint.com/cprogramming/index.htm)
 11. [Python](https://www.tutorialspoint.com/python/index.htm)
 12. Unix/Linux: [[1](https://www.tutorialspoint.com/unix/index.htm)],[[2](https://ryanstutorials.net/linuxtutorial/)]
-13. [Batch Script](https://www.tutorialspoint.com/batch_script/index.htm)
 14. Operating System:[[1](https://www.tutorialspoint.com/operating_system/index.htm)]
 
 
