@@ -24,5 +24,6 @@ There are some vital courses:
 - [# Signals and Systems](https://www.tutorialspoint.com/signals_and_systems/index.htm)
 - [Digital Circuit](https://www.tutorialspoint.com/digital_circuits/digital_combinational_circuits.htm)
 - Analog Circuit
-- 
+
+- EDA tools
 - verilog HDL: [[HDLbits](https://hdlbits.01xz.net/wiki/Main_Page)],[[verilog](https://www.javatpoint.com/verilog)]
