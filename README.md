@@ -26,6 +26,8 @@ There are some vital courses:
 - Analog Circuit
 
 
+
+
 - verilog: [[HDLbits](https://hdlbits.01xz.net/wiki/Main_Page)],[[verilog](https://www.javatpoint.com/verilog)]
 - SystemVerilog
 - EDA tools
