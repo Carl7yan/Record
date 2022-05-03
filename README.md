@@ -19,15 +19,9 @@ There are some vital courses:
 - CPU,
 - PCIe Graphics card
 - IO(comprised of internet,drive.database,...)
-3. Integrated Circuit:
-- [# Citcuit Analysis](https://www.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic)
-- [# Signals and Systems](https://www.tutorialspoint.com/signals_and_systems/index.htm)
-- [Digital Circuit](https://www.tutorialspoint.com/digital_circuits/digital_combinational_circuits.htm)
+4. Integrated Circuit:
 - Analog Circuit
-
-
-
-
+- [Digital Circuit](https://www.tutorialspoint.com/digital_circuits/digital_combinational_circuits.htm)
 - verilog: [[HDLbits](https://hdlbits.01xz.net/wiki/Main_Page)],[[verilog](https://www.javatpoint.com/verilog)]
 - SystemVerilog
 - EDA tools
