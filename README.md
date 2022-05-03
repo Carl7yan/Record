@@ -24,6 +24,7 @@ There are some vital courses:
 - [Digital Circuit](https://www.tutorialspoint.com/digital_circuits/digital_combinational_circuits.htm)
 - verilog: [[HDLbits](https://hdlbits.01xz.net/wiki/Main_Page)],[[verilog](https://www.javatpoint.com/verilog)]
 - SystemVerilog
+- UVM
 - EDA tools
 - Verilog compiler:[[1](https://www.tutorialspoint.com/compile_verilog_online.php)],[[2](https://www.jdoodle.com/execute-verilog-online/)]
 - [simulate,synthesize](https://www.edaplayground.com/)
