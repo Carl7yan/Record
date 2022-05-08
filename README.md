@@ -23,7 +23,7 @@ There are some vital courses:
 - Analog Circuit
 - [Digital Circuit](https://www.tutorialspoint.com/digital_circuits/digital_combinational_circuits.htm)
 - [HDLBits](https://hdlbits.01xz.net/wiki/Main_Page)
-- [Verilog,SystemVerilog,UVM](https://www.chipverify.com/)
+- [Verilog,SystemVerilog,UVM](https://www.doulos.com/)
 
 - EDA tools
 - Verilog compiler:[[1](https://www.tutorialspoint.com/compile_verilog_online.php)],[[2](https://www.jdoodle.com/execute-verilog-online/)]
