@@ -1,4 +1,4 @@
-## IT
+# IT
 There are some vital courses:
 1. Data Structure & Algorithms
 8. Computer Networks
@@ -7,7 +7,7 @@ There are some vital courses:
 12. Unix/Linux: [[1](https://www.tutorialspoint.com/unix/index.htm)],[[2](https://ryanstutorials.net/linuxtutorial/)]
 14. Operating System:[[1](https://www.tutorialspoint.com/operating_system/index.htm)]
 
-# Hardware
+## Hardware
 1. Principles of Compiler.
 1. Computer Architecture:x86,MIPS,ARM (assemble language)
 2. [Computer organization](https://www.coursera.org/learn/jisuanji-zucheng?)
@@ -16,7 +16,7 @@ There are some vital courses:
 - PCIe Graphics card
 - IO(comprised of internet,drive.database,...)
 
-## IC
+# IC
 1. Analog Circuit
 2. [Digital Circuit](https://www.tutorialspoint.com/digital_circuits/digital_combinational_circuits.htm)
 3. [HDLBits](https://hdlbits.01xz.net/wiki/Main_Page)
