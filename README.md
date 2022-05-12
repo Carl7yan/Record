@@ -1,6 +1,7 @@
 # IT
-There are some vital courses:
+some courses:
 1. Data Structure & Algorithms
+2. 
 8. Computer Networks
 10. [C](https://www.tutorialspoint.com/cprogramming/index.htm)
 11. [Python](https://www.tutorialspoint.com/python/index.htm)
