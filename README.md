@@ -1,12 +1,11 @@
 # IT
 some courses:
 1. Data Structure & Algorithms
-2. 
-8. Computer Networks
-10. [C](https://www.tutorialspoint.com/cprogramming/index.htm)
-11. [Python](https://www.tutorialspoint.com/python/index.htm)
-12. Unix/Linux: [[1](https://www.tutorialspoint.com/unix/index.htm)],[[2](https://ryanstutorials.net/linuxtutorial/)]
-14. Operating System:[[1](https://www.tutorialspoint.com/operating_system/index.htm)]
+2. Computer Networks
+3. [C](https://www.tutorialspoint.com/cprogramming/index.htm)
+4. [Python](https://www.tutorialspoint.com/python/index.htm)
+5. Unix/Linux: [[1](https://www.tutorialspoint.com/unix/index.htm)],[[2](https://ryanstutorials.net/linuxtutorial/)]
+6. Operating System:[[1](https://www.tutorialspoint.com/operating_system/index.htm)]
 
 ## Hardware
 1. Principles of Compiler.
