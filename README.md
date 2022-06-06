@@ -1,3 +1,15 @@
+# IC(digital IC verification engineer)
+1. Analog Circuit
+2. [Digital Circuit](https://www.tutorialspoint.com/digital_circuits/digital_combinational_circuits.htm)
+3. [HDLBits](https://hdlbits.01xz.net/wiki/Main_Page)
+4. [Verilog,SystemVerilog,UVM](https://www.doulos.com/)
+
+5. EDA tools
+6. [simulate,synthesize](https://www.edaplayground.com/)
+7. Verilog compiler:[[1](https://www.tutorialspoint.com/compile_verilog_online.php)],[[2](https://www.jdoodle.com/execute-verilog-online/)]
+8. [simulate(Icarus Verilog)](https://hdlbits.01xz.net/wiki/Iverilog)
+
+
 # IT
 some courses:
 1. Data Structure & Algorithms
@@ -16,13 +28,3 @@ some courses:
 - PCIe Graphics card
 - IO(comprised of internet,drive.database,...)
 
-# IC
-1. Analog Circuit
-2. [Digital Circuit](https://www.tutorialspoint.com/digital_circuits/digital_combinational_circuits.htm)
-3. [HDLBits](https://hdlbits.01xz.net/wiki/Main_Page)
-4. [Verilog,SystemVerilog,UVM](https://www.doulos.com/)
-
-5. EDA tools
-6. [simulate,synthesize](https://www.edaplayground.com/)
-7. Verilog compiler:[[1](https://www.tutorialspoint.com/compile_verilog_online.php)],[[2](https://www.jdoodle.com/execute-verilog-online/)]
-8. [simulate(Icarus Verilog)](https://hdlbits.01xz.net/wiki/Iverilog)
