@@ -1,4 +1,7 @@
-# IC(digital IC verification engineer)
+# IT
+
+
+## IC(digital IC verification engineer)
 1. Analog Circuit
 2. [Digital Circuit](https://www.tutorialspoint.com/digital_circuits/digital_combinational_circuits.htm)
 3. [HDLBits](https://hdlbits.01xz.net/wiki/Main_Page)
@@ -10,14 +13,14 @@
 8. [simulate(Icarus Verilog)](https://hdlbits.01xz.net/wiki/Iverilog)
 
 
-# IT
-some courses:
+## some courses:
 1. Data Structure & Algorithms
 2. Computer Networks
 3. [C](https://www.tutorialspoint.com/cprogramming/index.htm)
 4. [Python](https://www.tutorialspoint.com/python/index.htm)
 5. Unix/Linux: [[1](https://www.tutorialspoint.com/unix/index.htm)],[[2](https://ryanstutorials.net/linuxtutorial/)]
 6. Operating System:[[1](https://www.tutorialspoint.com/operating_system/index.htm)]
+
 
 ## Hardware
 1. Principles of Compiler.
